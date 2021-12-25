@@ -968,7 +968,7 @@ cat > kubernetes-csr.json <<EOF
     "kubernetes.default.svc",
     "kubernetes.default.svc.cluster",
     "kubernetes.default.svc.cluster.local.",
-    "cluster0.k8s.inanu.net."
+    "k8s.inanu.net."
   ],
   "key": {
     "algo": "rsa",
@@ -1022,7 +1022,7 @@ resources:
       - aescbc:
           keys:
             - name: key1
-              secret: QHmBZVIOX0HGjMFLIfUWWlTojYVrrZyXsW6v6+xUZ0g=
+              secret: ${ENCRYPTION_KEY}
       - identity: {}
 EOF
 ```
