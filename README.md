@@ -13,7 +13,7 @@
 
   * [Kubernetes v1.27](https://github.com/leonanu/kubernetes-cluster-hard-way/blob/main/v1.27.md)
 
-  * [Kubernetes v1.26](https://github.com/leonanu/kubernetes-cluster-hard-way/blob/main/v1.26.md)
+  * ~~[Kubernetes v1.26](https://github.com/leonanu/kubernetes-cluster-hard-way/blob/main/v1.26.md)~~ E.O.L.
 
   * ~~[Kubernetes v1.25](https://github.com/leonanu/kubernetes-cluster-hard-way/blob/main/v1.25.md)~~ E.O.L.
 
