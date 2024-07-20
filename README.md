@@ -7,6 +7,8 @@
 [**Kubernetes 版本生命周期**](https://endoflife.date/kubernetes)
 
 * 安装文档：
+  * [Kubernetes v1.30](https://github.com/leonanu/kubernetes-cluster-hard-way/blob/main/v1.30.md)
+
   * [Kubernetes v1.29](https://github.com/leonanu/kubernetes-cluster-hard-way/blob/main/v1.29.md)
 
   * [Kubernetes v1.28](https://github.com/leonanu/kubernetes-cluster-hard-way/blob/main/v1.28.md)
